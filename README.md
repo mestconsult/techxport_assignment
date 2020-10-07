@@ -12,6 +12,6 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 
 1. Once you are done with step two, create a sign up page like the image shown below  ![GitHub Logo](/sign_up.png)
 
-1. Now, link the **Sign Up** button shown below the password input box on the login page to the sign up page using the anchor tags in HTML.
+1. Now, link the **Sign Up** option shown below the password input box on the login page to the sign up page using the anchor tags in HTML.
 
 1. Finally, use the javascript alert function to display the name and email entered on the sign up page when the create account button is clicked like in the image shown below  ![GitHub Logo](/sign_up_and_popup.png)
