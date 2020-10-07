@@ -17,4 +17,4 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 1. Finally, use the javascript alert function to display the name and email entered on the sign up page when the create account button is clicked like in the image shown below  ![GitHub Logo](/sign_up_and_popup.png)
 
 ## Submiting the assignment
-Please zip your assignment and email to nelson@meltwater.org
+Zip folder containing all files and email to nelson@meltwater.org
