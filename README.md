@@ -1,6 +1,6 @@
 # TechXport Assignment
 
-Building a simple login and sign up page using concepts we have learnt from the html, css and Javascript sessions. 
+Building a simple login and sign up page using concepts we have learnt from the html, css and Javascript sessions.  
 *The assignment is to be submitted by **Friday, 9th October**.*
 
 ## Details of the assignment
