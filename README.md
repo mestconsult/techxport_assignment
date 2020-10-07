@@ -7,3 +7,5 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 ## Details of the assignment
 
 * Create a login page just like the image shown below
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
