@@ -7,9 +7,7 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 ## Details of the assignment
 
 1. Create a login page just like the image shown below  ![GitHub Logo](/login_page.png)
-
-![Screenshot of login page](url)
+![Screenshot of login page](text)
 
 1. After creating the login page as shown above, when the email and password is entered, use the javascript alert function to show the email entered like in the image shown below  ![GitHub Logo](/login_and_popup.png)
-
-![Screenshot of login + popup page](url)
+![Screenshot of login + popup page](text)
