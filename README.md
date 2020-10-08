@@ -2,7 +2,7 @@
 
 Build a simple login and sign up page using concepts we learnt from the html, css and Javascript sessions.  
 
-*The assignment should be submitted by **Monday, 12th October**.*
+*The assignment should be submitted by **Monday, 12th October**.
 
 ## Details of the assignment
 
