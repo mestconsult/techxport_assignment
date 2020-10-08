@@ -18,3 +18,5 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
+
+*The assignment should be submitted by **Monday, 12th October**.
