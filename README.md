@@ -15,6 +15,8 @@ We have taken a look at Node JS and how to connect our Node JS application to a 
     
 1. The **/users/create** route should use a **post**, the **/users/update** route should use a **put**, the **/users/delete** route should use a **delete** and **/users/authenticate** route should use a **post**
 
+1. A call to /users/create should create a new user with the provided details an stored in the database, when /users/authenticate is called it should check the database for the email passed and if found should respond with the user's details excluding the user's password. A call to /users/update should update the user's details in the database with the new details provided, and a call to /users/delete should delete the user's details from the database.
+
 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
