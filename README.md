@@ -2,7 +2,7 @@
 
 With the ecommerce project we have already started, add a login page and gather the input entered on our login page. When you have the inputed email and password from the login page, use axios to send them to the **/users/authenticate** route we created in the previous assignment.
 
-*The assignment should be submitted by **Monday, 12th October**.
+*The assignment should be submitted by **Monday, 5th November**.
 
 ## Details of the assignment
 
@@ -15,4 +15,4 @@ With the ecommerce project we have already started, add a login page and gather 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
 
-The assignment should be submitted by **Monday, 12th October**.
+The assignment should be submitted by **Monday, 5th November**.
