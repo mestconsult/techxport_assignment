@@ -10,9 +10,7 @@ With the ecommerce project we have already started, add a login page and gather 
 
 1. After creating the login page as shown above, when the email and password is entered and the login button is clicked, get the inputed email and password and send them to /users/authenticate route we created in the previous assignment.
 
-1. If the api returns the user's details, use the javascript alert function to display the use's name and email as shown in the image below.
-
-1. Finally, use the javascript alert function to display the name and email entered on the sign up page when the create account button is clicked like in the image shown below  ![GitHub Logo](/sign_up_and_popup.png)
+1. If the api returns the user's details, use the javascript alert function to display the use's name and email as shown in the image below.   ![GitHub Logo](/sign_up_and_popup.png)
 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
