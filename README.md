@@ -1,6 +1,6 @@
-# TechXport Assignment
+# TechXport Assignment 3 (Vue JS)
 
-Build a simple login and sign up page using concepts we learnt from the html, css and Javascript sessions.  
+With the ecommerce project we have already started, add a login page and gather the input entered on our login page. When you have the inputed email and password from the login page, use axios to send them to the /users/authenticate route we created in the previous assignment.
 
 *The assignment should be submitted by **Monday, 12th October**.
 
@@ -8,11 +8,9 @@ Build a simple login and sign up page using concepts we learnt from the html, cs
 
 1. Create a login page just like the image shown below  ![GitHub Logo](/login_page.png)
 
-1. After creating the login page as shown above, when the email and password is entered and the login button is clicked, use the javascript alert function to show the email entered like in the image shown below  ![GitHub Logo](/login_and_popup.png)
+1. After creating the login page as shown above, when the email and password is entered and the login button is clicked, get the inputed email and password and send them to /users/authenticate route we created in the previous assignment.
 
-1. Once you are done with step two, create a sign up page like the image shown below  ![GitHub Logo](/sign_up.png)
-
-1. Now, link the **Sign Up** option shown below the password input box on the login page to the sign up page using the anchor tags in HTML. So when the **Sign Up** option on the login page is clicked, it takes you to the sign up page.
+1. If the api returns the user's details, use the javascript alert function to display the use's name and email as shown in the image below.
 
 1. Finally, use the javascript alert function to display the name and email entered on the sign up page when the create account button is clicked like in the image shown below  ![GitHub Logo](/sign_up_and_popup.png)
 
