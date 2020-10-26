@@ -14,7 +14,7 @@ We have taken a look at Node JS and how to connect our Node JS application to a 
     1. /users/delete
     1. /users/authenticate
     
-1. 
+1. The /users/create route should use a **post**, the /users/update route should use a **put**, the /users/delete route should use a **delete** and /users/authenticate route should use a **post**
 
 
 ## Submiting the assignment
