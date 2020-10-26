@@ -1,20 +1,20 @@
-# TechXport Assignment
+# TechXport Assignment 2 (Node JS)
 
-Build a simple login and sign up page using concepts we learnt from the html, css and Javascript sessions.  
+We have taken a look at Node JS and how to connect our Node JS application to a mongo db database. For this assignment, use the mongoose library we added to create to the NodeJS project to add a new model **called User**. This model should have the following fields: firstname, lastname, email, password, and profileImageUrl. When you are done creating the model, create a route in the routes file that uses a HTTP post method to create a new user
 
 *The assignment should be submitted by **Monday, 12th October**.
 
 ## Details of the assignment
+1. Create a new file in the models folder called user.js
+1. Open the new user.js file and use mongoose to create a new Schema called User.  The User schema should have the following fields: firstname, lastname, email, password, and profileImageUrl
+1. Export the User schema from the user.js file as a mongoose model
+1. Open the routes.js file and create the following routes:
+    1. /users/create 
+    1. /users/update
+    1. /users/delete
+    1. /users/authenticate
+1. 
 
-1. Create a login page just like the image shown below  ![GitHub Logo](/login_page.png)
-
-1. After creating the login page as shown above, when the email and password is entered and the login button is clicked, use the javascript alert function to show the email entered like in the image shown below  ![GitHub Logo](/login_and_popup.png)
-
-1. Once you are done with step two, create a sign up page like the image shown below  ![GitHub Logo](/sign_up.png)
-
-1. Now, link the **Sign Up** option shown below the password input box on the login page to the sign up page using the anchor tags in HTML. So when the **Sign Up** option on the login page is clicked, it takes you to the sign up page.
-
-1. Finally, use the javascript alert function to display the name and email entered on the sign up page when the create account button is clicked like in the image shown below  ![GitHub Logo](/sign_up_and_popup.png)
 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
