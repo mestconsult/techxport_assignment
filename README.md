@@ -1,7 +1,7 @@
 # TechXport Assignment 2 (Node JS)
 
 We have taken a look at Node JS and how to connect our Node JS application to a mongo db database. For this assignment, use the mongoose library to create a user model and then create routes for adding a new user, updating a user, checking if a user exists in the database and a route that is called to delete the user.
-*The assignment should be submitted by **Monday, 12th October**.
+*The assignment should be submitted by **Monday, 5th November**.
 
 ## Details of the assignment
 1. Create a new file in the models folder called user.js
@@ -21,4 +21,4 @@ We have taken a look at Node JS and how to connect our Node JS application to a 
 ## Submiting the assignment
 Zip folder containing all files and email to nelson@meltwater.org
 
-The assignment should be submitted by **Monday, 12th October**.
+The assignment should be submitted by **Monday, 5th November**.
